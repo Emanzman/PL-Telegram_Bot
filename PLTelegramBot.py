@@ -13,7 +13,7 @@ from telegram import Update
 import requests
 from bs4 import BeautifulSoup
 
-API_TOKEN = "1665438854:AAHr6TWDm_emgHnvGYDmDxU1-C8X7bSOE2Y" 
+API_TOKEN = "" 
 
 # what your bot should reply when we send the /start command
 def start(update: Update, context: CallbackContext):
